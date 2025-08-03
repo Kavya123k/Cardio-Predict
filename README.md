@@ -46,4 +46,4 @@ Records: 303 patient entries
 
 Format: CSV
 
-Your site has been successfully published! You can view it at: https://effortless-starlight-4ca3ea.netlify.app 
+ You can view it at: https://effortless-starlight-4ca3ea.netlify.app 
